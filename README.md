@@ -77,5 +77,5 @@ Check out some of my favorite repositories:
 
 <!-- Animated daily quote using shields.io (changes based on day) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Quote+of+the+Day&query=%24.quote&url=https%3A%2F%2Fzenquotes.io%2Fapi%2Ftoday" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
