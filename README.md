@@ -71,11 +71,12 @@ Check out some of my favorite repositories:
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350"/>
-</p>
 
 <!-- Animated daily quote using shields.io (changes based on day) -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
+
+> *“Code is like humor. When you have to explain it, it’s bad.”*  
+> *– Cory House*
+
