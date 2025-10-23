@@ -174,10 +174,6 @@ const goals2024 = {
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/sanoj19/sanoj19/output/github-contribution-grid-snake-dark.svg)
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" width="100%"/>
 
 </div>
