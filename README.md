@@ -103,29 +103,6 @@ const jonas = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanoj19&bg_color=0D1117&color=6366F1&line=6366F1&point=FBBF24&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-## Highlighted Repositories
-
-<a href="https://github.com/Quanby-IT-Solutions/AMLCC-CMS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quanby-IT-Solutions&repo=AMLCC-CMS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FBBF24" />
-</a>
-<a href="https://github.com/Quanby-IT-Solutions/Qhealth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quanby-IT-Solutions&repo=Qhealth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FBBF24" />
-</a>
-
----
 
 ## 🤝 Connect With Me
 
