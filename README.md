@@ -116,16 +116,14 @@ const jonas = {
 
 <div align="center">
 
-### 🌟 Highlighted Repositories
+## Highlighted Repositories
 
-<a href="https://github.com/sanoj19/job-portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanoj19&repo=job-portal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FBBF24" />
+<a href="https://github.com/Quanby-IT-Solutions/AMLCC-CMS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quanby-IT-Solutions&repo=AMLCC-CMS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FBBF24" />
 </a>
-<a href="https://github.com/sanoj19/hris-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanoj19&repo=hris-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FBBF24" />
+<a href="https://github.com/Quanby-IT-Solutions/Qhealth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quanby-IT-Solutions&repo=Qhealth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=FBBF24" />
 </a>
-
-</div>
 
 ---
 
