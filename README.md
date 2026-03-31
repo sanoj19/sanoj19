@@ -1,8 +1,10 @@
 <div align="center">
   
+<div align="center">
+  
 # 👨‍💻 Jonas Bercasio
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
 
@@ -19,10 +21,10 @@
 ```typescript
 const jonas = {
     location: "Legazpi City, Albay, PH",
-    role: "Full Stack Developer",
+    role: "Junior Software Engineer",
     code: ["JavaScript", "TypeScript", "PHP", "HTML/CSS"],
     technologies: {
-        frontend: ["React", "Angular", "TailwindCSS"],
+        frontend: ["React", "Angular", "Next.js", "TailwindCSS"],
         backend: ["Node.js", "Express", "Prisma"],
         databases: ["PostgreSQL", "MySQL"],
         tools: ["Git", "VS Code", "PGAdmin"]
