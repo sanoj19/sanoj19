@@ -87,15 +87,6 @@ const jonas = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanoj19&theme=github_dark" alt="Profile Summary" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanoj19&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
